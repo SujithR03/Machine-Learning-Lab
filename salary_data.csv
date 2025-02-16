@@ -1,0 +1,11 @@
+years_experience,qualification,industry,location,salary
+1,1,IT,CityA,40000
+2,2,IT,CityB,45000
+3,2,Marketing,CityA,42000
+4,3,IT,CityC,48000
+5,3,Marketing,CityB,47000
+6,4,IT,CityC,50000
+7,4,Marketing,CityA,49000
+8,5,IT,CityB,55000
+9,5,Marketing,CityC,53000
+10,5,IT,CityA,60000
