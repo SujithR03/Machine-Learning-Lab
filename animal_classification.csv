@@ -1,0 +1,11 @@
+name,diet,weight_kg,lifespan_years,speed_kmh,class
+Lion,Carnivore,190.0,14,80,Mammal
+Elephant,Herbivore,5400.0,60,25,Mammal
+Eagle,Carnivore,6.0,20,160,Bird
+Shark,Carnivore,1100.0,30,50,Fish
+Frog,Omnivore,0.5,10,10,Amphibian
+Horse,Herbivore,400.0,25,88,Mammal
+Penguin,Carnivore,30.0,20,8,Bird
+Snake,Carnivore,5.0,15,25,Reptile
+Kangaroo,Herbivore,85.0,20,70,Mammal
+Dolphin,Carnivore,150.0,40,55,Mammal
